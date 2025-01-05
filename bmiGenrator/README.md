@@ -62,9 +62,6 @@ The JavaScript file contains the logic for the BMI calculator, including event l
 1. Clone the repository or download the files.
 2. Open `index.html` in a web browser.
 
-## Example
-
-![BMI Calculator Screenshot](screenshot.png)
 
 ## Detailed Explanations
 
