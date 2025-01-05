@@ -1,4 +1,3 @@
--
 
 # JavaScript Projects Directory
 
