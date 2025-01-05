@@ -161,6 +161,3 @@ The JavaScript file contains the logic for the BMI calculator, including event l
 - **CSS**: You can use CSS frameworks like Bootstrap or Tailwind CSS for easier styling.
 - **JavaScript**: You can use libraries like jQuery for simpler DOM manipulation or frameworks like Angular for more complex applications.
 
-## License
-
-This project is licensed under the MIT License.
