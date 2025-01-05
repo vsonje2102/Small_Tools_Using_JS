@@ -1,8 +1,4 @@
-
-
-Here’s an overall **README.md** file for the directory, summarizing the purpose and contents of each subproject:
-
----
+-
 
 # JavaScript Projects Directory
 
