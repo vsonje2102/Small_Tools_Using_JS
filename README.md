@@ -1,6 +1,3 @@
-Here's the updated README with the addition of the "To-Do List" project:
-
----
 
 # JavaScript Projects Directory
 
