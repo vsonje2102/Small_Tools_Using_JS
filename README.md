@@ -1,3 +1,6 @@
+Here's the updated README with the addition of the "To-Do List" project:
+
+---
 
 # JavaScript Projects Directory
 
@@ -45,22 +48,30 @@ This repository contains a collection of small JavaScript-based projects showcas
 
 ---
 
+### 4. **To-Do List**
+   - **Description**: A dynamic application to help users manage their tasks effectively. Users can add, delete, and mark tasks as complete.
+   - **Files**:
+     - `index.html`: Structure of the To-Do List application.
+     - `styles.css`: Styling for the task list and input fields.
+     - `script.js`: JavaScript for handling task management functionalities.
+     - `README.md`: Detailed documentation for the To-Do List project.
+   - **Features**:
+     - Input field for adding tasks.
+     - Option to mark tasks as complete or delete them.
+     - Dynamic task list updates.
+
+---
+
 ## How to Run the Projects
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vsonje2102/Small_Tools_Using_JS
    cd js
    ```
 2. Navigate to the desired project folder:
    ```bash
-   cd bmiGenrator
-   ```
-3. Open `index.html` in a web browser:
-   ```bash
-   open index.html  # On macOS
-   xdg-open index.html  # On Linux
-   start index.html  # On Windows
+   cd Small_Tools_Using_JS
    ```
 
----
+
